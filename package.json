@@ -2,9 +2,7 @@
   "name": "weather-app",
   "version": "1.0.0",
   "description": "실시간 날씨 정보 및 주간 예보 웹 애플리케이션",
-  "main": "server.js",
   "scripts": {
-    "start": "node server.js",
     "dev": "node server.js"
   },
   "keywords": ["weather", "forecast", "open-meteo"],
